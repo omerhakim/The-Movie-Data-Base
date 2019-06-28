@@ -9,7 +9,7 @@ The goals of our project were to find data about movies that can give investors 
 ## Method of Work:
 The first phase was cultivating data from “The Movie Data Base”. We used API key to get the data, and we sorted out information regarding votes count and votes averages.We were looking for correlation between the two. We did the sorting with running a loop who sorts the information into a SQL database. Later we uses pandas to group and visualize the data.
 
-<img src = "./image1.png">
+<img src = "./image1.png" style = max width = 50% >
 
 A
 
