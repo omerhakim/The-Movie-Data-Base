@@ -35,8 +35,6 @@ in the first few years marketing and buzz will work but for consistency over man
  ------
 The second phase was scraping data from Wikipedia about the nominees for the academy award for foreign language film (from 1956 onward). We used BuetifulSoup for the scraping, and stored the data as a pandas data frame. Later we imported csv file from the the UN website (with information regardind the world population) and merged it with our scraped pandas Data frame. Based on this data we were looking for interesting opportunities of investment in the film industry abroad.
 
-<img src = "./image4.png" style = max width = 60%>
+<img src = "./image4.png" style = max width = 80%>
 
-A
-
-<img src = "./image5.png" style = max width = 60%>
+<img src = "./image5.png" style = max width = 80%>
