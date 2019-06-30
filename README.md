@@ -23,13 +23,13 @@ It is a good time for  the industry to focus on the marketing.
 <img src = "./images/image2.png" style = max width = 60% >
 
 
-
+Conclusion:
+in the first few years marketing and buzz will work but for consistency over many years you  should have a good quality films.
+-Increased ease of voting.
 
 <img src = "./images/image3.png" style = max width = 60%>
 
-up : Conclusion:
-in the first few years marketing and buzz will work but for consistency over many years you  should have a good quality films.
--Increased ease of voting.
+
 
 
  ------
