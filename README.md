@@ -11,15 +11,28 @@ The first phase was cultivating data from “The Movie Data Base”. We used API
 
 <img src = "./image1.png" style = max width = 60% >
 
-A
+up - Correlation = 0.28
+(Related for movies with more than 3000 counts) 
+
+Recommendation: 
+Invest some money on quality and bigger portion on the marketing and traffic promotion.
 
 <img src = "./image2.png" style = max width = 60% >
 
-A
+up - Correlation = 0.844
+This is a correlation  for the sum of votes grouped by year. It shows :  more movies has been voted for and more counts were given for each movie. 
+Recommendation:
+It is a good time for  the industry to focus on the marketing.
+
 
 <img src = "./image3.png" style = max width = 60%>
 
+up : Conclusion:
+in the first few years marketing and buzz will work but for consistency over many years you  should have a good quality films.
+-Increased ease of voting.
 
+
+ ------
 The second phase was scraping data from Wikipedia about the nominees for the academy award for foreign language film (from 1956 onward). We used BuetifulSoup for the scraping the information and store it as a pandas data frame. Later we imported csv file from the the UN website (with information regardind the world population) and merged it with our scraped pandas Data frame. Based on this data we were looking for interesting opportunities of investment in the film industry abroad.
 
 <img src = "./image4.png" style = max width = 60%>
