@@ -31,7 +31,7 @@ The conclusion is probably, that for a film to succeed, in the first few years m
 
 
  ------
-The second phase was scraping data from Wikipedia about the nominees for the academy award for foreign language film (from 1956 onward). We used BuetifulSoup for the scraping, and stored the data in pandas data frame. Later we imported csv file from the the UN website (with information regarding the world population) and merged it with our scraped pandas Data frame. Based on this data we were looking for interesting opportunities of investment in the film industry abroad.
+The second phase was scraping data from Wikipedia about the nominees for the academy award for foreign language film (from 1956 onward). We used BuetifulSoup for the scraping, and stored the data in pandas data frame. Later we imported csv file from the the UN website (with information regarding the world population) and merged it with our scraped pandas Data frame. Based on this data we were looking for interesting opportunities of investment in the film industry abroad, especially in countries with most academy award nominees relative to the size of population.
 
 <img src = "./images/image4.png" style = max width = 80%>
 
