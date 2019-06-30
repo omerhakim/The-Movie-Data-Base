@@ -11,7 +11,7 @@ The first phase was cultivating data from “The Movie Data Base” - www.themov
 
 ## Insights:
 
-Correlation between __ is 0.28 and not significant (Related for movies with more than 3000 counts)
+Correlation between votes count and votes average is not significant - 0.28   (only movies with more than 3000 counts were been researced)
 
 <img src = "./images/image1.png" style = max width = 60% >
 
