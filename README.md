@@ -15,17 +15,14 @@ Correlation between votes count and votes average is not significant - 0.28   (o
 
 <img src = "./images/image1.png" style = max width = 60% >
 
- 
-
-Recommendation: 
-Invest some money on quality and bigger portion on the marketing and traffic promotion.
-
-<img src = "./images/image2.png" style = max width = 60% >
-
-up - Correlation = 0.844
+ On the other hand, and kind of expected, Correlation = 0.844
 This is a correlation  for the sum of votes grouped by year. It shows :  more movies has been voted for and more counts were given for each movie. 
 Recommendation:
 It is a good time for  the industry to focus on the marketing.
+
+<img src = "./images/image2.png" style = max width = 60% >
+
+
 
 
 <img src = "./images/image3.png" style = max width = 60%>
