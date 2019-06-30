@@ -4,10 +4,10 @@
 Project Contributors: Mohamad Eldebek and Omer Hakim
 
 ## Goals:
-The goals of this small project were to find data and new insight about movies that can give new ideas regarding possible investments in the industry.
+The goals of this small project were to find data and new insights about movies that can give new ideas regarding possible investments in the industry.
 
 ## Method of Work:
-The first phase was cultivating data from “The Movie Data Base” - www.themoviedb.org . We used API key to collect the data, and we sorted out information regarding votes count and votes averages. We were looking for correlations between the two. We used sqlite3 (SQL)  to sort and store the data. Later we uses pandas to grouping and visualization.
+The first phase was cultivating data from “The Movie Data Base” - www.themoviedb.org . We used API key to collect the data, and we sorted out information regarding votes count and votes averages. We were looking for correlations between the two. We used sqlite3 (SQL)  to sort and store the data. Later we used pandas to grouping and visualization.
 
 ## Insights:
 
