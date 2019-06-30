@@ -16,9 +16,7 @@ Correlation between votes count and votes average is not significant - 0.28   (o
 <img src = "./images/image1.png" style = max width = 60% >
 
 On the other hand, and kind of expected, Correlation between year of release and vote count is significant = 0.844
-This is a correlation  for the sum of votes grouped by year. It shows :  more movies has been voted for and more counts were given for each movie. 
-Recommendation:
-It is a good time for  the industry to focus on the marketing.
+This is a correlation  for the sum of votes grouped by year. It shows that  more movies has been voted for and more counts were given for each movie. 
 
 <img src = "./images/image2.png" style = max width = 60% >
 
