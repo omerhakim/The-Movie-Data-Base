@@ -22,8 +22,8 @@ This is a correlation for the sum of votes grouped by year. It shows that more m
 <img src = "./images/image2.png" style = max width = 60% >
 
 
-Interesting connection can be found between the vote average and year release. almost only films with high vote average continue to recive count  many years after their release.
-The conclusion is probably, the for a film to succeed,in the first few years marketing and buzz may work, but for consistency over many years good quality is a necessity.
+Interesting connection can be found between the vote average and year release. Almost only films with high vote average continue to recive count  many years after their release.
+The conclusion is probably, that for a film to succeed, in the first few years marketing and buzz may work, but for consistency over many years good quality is a necessity.
 
 <img src = "./images/image3.png" style = max width = 60%>
 
