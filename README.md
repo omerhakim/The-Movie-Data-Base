@@ -9,10 +9,13 @@ The goals of this small project were to find data and new insight about movies t
 ## Method of Work:
 The first phase was cultivating data from “The Movie Data Base” - www.themoviedb.org . We used API key to collect the data, and we sorted out information regarding votes count and votes averages. We were looking for correlations between the two. We used sqlite3 (SQL)  to sort and store the data. Later we uses pandas to grouping and visualization.
 
+## Insights:
+
+Correlation between __ is 0.28 and not significant (Related for movies with more than 3000 counts)
+
 <img src = "./images/image1.png" style = max width = 60% >
 
-up - Correlation = 0.28
-(Related for movies with more than 3000 counts) 
+ 
 
 Recommendation: 
 Invest some money on quality and bigger portion on the marketing and traffic promotion.
