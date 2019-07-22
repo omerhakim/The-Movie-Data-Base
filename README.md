@@ -1,7 +1,7 @@
 # The-Movie-Data-Base
 ## Using API and Web Scraping with the Movie Data Base
 
-Project Contributors: Mohamad Eldebek and Omer Hakim
+
 
 ## Goals:
 The goals of this small project were to find data and new insights about movies that can give new ideas regarding possible investments in the industry.
